@@ -1,0 +1,8 @@
+[
+  {"id": "arabic-only", "dir": "rtl", "text": "مرحبا بكم"},
+  {"id": "western-digits", "dir": "rtl", "text": "رقم الفاتورة 1234"},
+  {"id": "arabic-indic-digits", "dir": "rtl", "text": "رقم الفاتورة ١٢٣٤"},
+  {"id": "mixed-script", "dir": "rtl", "text": "إصدار (PDF 2.0) متاح الآن"},
+  {"id": "punctuation", "dir": "rtl", "text": "تاريخ الإصدار (١٢ مايو ٢٠٢٦)."},
+  {"id": "latin-control", "dir": "ltr", "text": "Invoice 1234 (paid)."}
+]
